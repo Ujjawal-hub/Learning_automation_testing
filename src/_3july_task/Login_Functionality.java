@@ -2,7 +2,7 @@ package _3july_task;
 
 public class Login_Functionality {
 
-    public static void main(String[] args) {
+    public static void main(String [] args) {
 User a = new User();
 User b =  new Adminuser();
 User c = new Regularuser();
